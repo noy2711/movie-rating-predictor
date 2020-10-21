@@ -5,14 +5,14 @@ A statistical model that predicts imdb movie ratings based on a set of features 
 ## Clean, Prepare & Manipulate Data
 
 <br/>
-Percentage of data for each rating
+
+#### Percentage of data for each rating
+
 <br/>
 
 ![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image10.png)
 
 
-<br/>
-Budget VS IMDB score
 <br/>
 
 ![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image11.png)
@@ -21,8 +21,7 @@ Budget VS IMDB score
 
 
 <br/>
-Budget VS IMDB score
-<br/>
+
 
 ![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image12.png)
 
@@ -30,12 +29,9 @@ Budget VS IMDB score
 
 
 <br/>
-Budget VS IMDB score
-<br/>
+
 
 ![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image13.png)
-
-
 
 
 <br/>
@@ -43,7 +39,7 @@ Budget VS IMDB score
 #### IMDB scores vs genres
 <br/>
 
-![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image16.png)
+![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image14.png)
 
 
 
