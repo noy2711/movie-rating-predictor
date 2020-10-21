@@ -2,6 +2,13 @@
 
 A statistical model that predicts imdb movie ratings based on a set of features like genre, directors' and actors' facebook likes, length, etc...
 
+
+<br/>
+
+![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image6.png)
+
+
+
 ## Clean, Prepare & Manipulate Data
 
 <br/>
@@ -51,3 +58,20 @@ A statistical model that predicts imdb movie ratings based on a set of features 
 <br/>
 
 ![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image16.png)
+
+
+
+<br/>
+
+## Results
+<br/
+
+
+![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image35.png)
+
+![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image36.png)
+
+![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image39.png)
+
+![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image37.png)
+
