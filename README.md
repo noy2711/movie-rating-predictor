@@ -1,7 +1,7 @@
 # movie-rating-predictor
 
-A statistical model that predicts imdb movie ratings based on a set of features like genre, directors' and actors' facebook likes, length, etc...
-Prediction algorithms- Logistic Regression, Neural Networks, Random Forest, SVM, KNN, Bagging Classifier.
+#### A statistical model that predicts imdb movie ratings based on a set of features like genre, directors' and actors' facebook likes, length, etc...
+#### Prediction algorithms- Logistic Regression, Neural Networks, Random Forest, SVM, KNN and Bagging Classifier.
 
 <br/>
 
