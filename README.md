@@ -39,16 +39,19 @@ Budget VS IMDB score
 
 
 <br/>
-Budget VS IMDB score
+
+#### IMDB scores vs genres
 <br/>
 
-![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image14.png)
+![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image16.png)
 
 
 
 
 <br/>
-Budget VS IMDB score
+
+## Strength of the relationship between the characteristics
+
 <br/>
 
 ![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image16.png)
