@@ -61,17 +61,15 @@ A statistical model that predicts imdb movie ratings based on a set of features 
 
 
 
-<br/>
+<br>
 
 ## Results
-<br/
+<br/>
 
-
-![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image35.png)
-
-![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image36.png)
-
-![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image39.png)
-
-![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image37.png)
+Confusion matrix | Prediction
+------------ | -------------
+![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image35.png) | ![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image36.png)
+![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image39.png) | ![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image37.png)
+![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image42.png) | ![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image43.png)
+![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image46.png) | ![imdb score conversion](https://github.com/noy2711/movie-rating-predictor/blob/master/images/image44.png)
 
